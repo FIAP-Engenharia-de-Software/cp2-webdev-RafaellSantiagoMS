@@ -10,8 +10,25 @@
 // - Executar a operação correta e retornar o resultado;
 
 function calcular(num1, num2, operador) {
-  // TODO: implementar função
+  return calcular
 }
+function validarNumero(num1,num2){
+  if(calcular == "")
+  console.log("NumA")
+}
+
+function divisaoNumero(num1,num2,operador){
+  if(calcular == 0)
+    console.log("Não é divisivel")
+}
+
+function operadorNumero(operador){
+  if(calcular == $)
+    console.log("Operador desconhecido")
+}
+
+
+
 
 
 //NÃO REMOVA O CÓDIGO ABAIXO
